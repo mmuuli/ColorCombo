@@ -91,6 +91,25 @@ nav {
   text-align: center;
 }
 
+.newsletter {
+  width: 500px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+.newsletter input[type="text"] {
+  height: 50px;
+  width: 450px;
+}
+
+.newsletter button {
+  margin-top: 10px;
+  width: 100px;
+}
+
 
 /* Download section styling */
 .download {
